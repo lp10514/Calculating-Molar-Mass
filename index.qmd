@@ -2,7 +2,9 @@
 title: "College Colloquium Final — Scientific Computing & Molar Mass"
 author: "Lisandra Perez Beltran"
 date: November 14, 2025
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 
 
